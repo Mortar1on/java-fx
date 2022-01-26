@@ -6,4 +6,5 @@ module ua.ithillel.javafx {
 
     opens ua.ithillel.javafx to javafx.fxml;
     exports ua.ithillel.javafx;
+    exports ua.ithillel.javafx.userapp;
 }
